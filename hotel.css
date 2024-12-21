@@ -1,0 +1,20 @@
+body{
+    font-family: Almarai;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+a{
+    text-decoration: none;
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.829);
+
+    border: 1px solid black;
+    transition: .3s;
+    /* margin: 3rem; */
+}
+.tik_1:hover{
+    /* background-color: #1b9b07; */
+    text-shadow: 2px 2px black;
+    }

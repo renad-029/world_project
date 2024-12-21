@@ -1,0 +1,35 @@
+body{
+    font-family: Almarai;
+    background-image: url('images/tick_logo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.829);
+}
+
+.card{
+    height: 300px;
+    width: 250px;
+    border: 1px solid black;
+    transition: .3s;
+    margin: 3rem;
+}
+
+/* .ticket_ba{
+    background-image: url('images/tick_bac.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    border-radius: 50px;
+    
+
+} */
+.text_1{
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px rgb(0, 0, 0);
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
